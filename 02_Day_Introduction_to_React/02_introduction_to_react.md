@@ -1554,13 +1554,26 @@ Now, you have a very good understanding of how to create JSX elements and also h
 #### Exercises: What is React?
 
 1. What is React?
+    - React is a JavaScript library for building user interfaces.
 2. What is a library?
 3. What is a single page application?
+    -  A single-page application (SPA) is a web application or website that interacts with the user by dynamically rewriting the current web page with new data from the web server, instead of the default method of the browser loading entire new pages.
 4. What is a component ?
+    - 接收props返回描述页面展示内容的React元素。
 5. What is the latest version of React?
-6. What is DOM?
-7. What is React Virtual DOM?
-8. What does a web application or a website(composed of) have?
+    - 16.14.0
+7. What is DOM?
+8. What is React Virtual DOM?
+    - UI 以一种理想化的，或者说“虚拟的”表现形式被保存于内存中，并通过如 ReactDOM 等类库使之与“真实的” DOM 同步。
+9.  What does a web application or a website(composed of) have?
+    - Navigation
+    - Web Hosting
+    - Call-to-Actions
+    - Headline
+    - About us
+    - Content
+    - Visuals
+    - Mobile friendliness
 
 #### Exercises: Why React?
 
